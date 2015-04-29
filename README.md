@@ -1,3 +1,3 @@
 # janus
 
-Issue tracker for JanusVR's scene support
+Issue tracker for [JanusVR](http://www.janusvr.com/)'s scene support
